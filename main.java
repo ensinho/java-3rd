@@ -5,8 +5,8 @@ class Main {
     Feminino p1;
     Masculino p2;
 
-    p1 = new Feminino("Monique",18);
-    p2 = new Masculino("Enzo", 18);
+    p1 = new Feminino("Moça",18);
+    p2 = new Masculino("Moço", 18);
 
     Casamento c = new Casamento (p1,p2);
 
